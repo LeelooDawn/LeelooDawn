@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeelooDawn
 - 👀 I’m interested in video games, tv, acting, and ASL (American Sign Language)
-- 🌱 I’m currently learning coding - I'm a beginner and am learning the ways of the code in order to start a new career!
-- 💞️ I’m looking to collaborate on anything? Again, I am new.
+- 🌱 I’m currently learning coding - I am learning the ways of the code in order to start a new career!
+- 💞️ I’m looking to collaborate on anything? 
 
 
 <!---
