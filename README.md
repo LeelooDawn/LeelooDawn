@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @LeelooDawn
 - 👀 I’m interested in video games, tv, acting, and ASL (American Sign Language)
-- 🌱 I’m currently coding my final project for CS50
-- 💞️ I’m looking to collaborate on anything? 
+- 🌱 I finished Harvard EdX CS50!!
+- 💪🏼 I'm currently working on getting my MeTa Professional Front-End Web Developer Certification through Coursera
+- 🤓  I love graphic design and would love to be a front-end developer!
 
 
 <!---
