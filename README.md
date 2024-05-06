@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @LeelooDawn
 - 👀 I’m interested in video games, tv, acting, and ASL (American Sign Language)
-- 🌱 I finished Harvard EdX CS50!!
-- 💪🏼 I'm currently working on getting my MeTa Professional Front-End Web Developer Certification through Coursera
-- 🤓  I love graphic design and would love to be a front-end developer!
+- 💪🏼 I have a Professional Certificate in Front-End Development, A verified certificate in Computer Science, and a certificate in Graphic Design
 
 
 <!---
